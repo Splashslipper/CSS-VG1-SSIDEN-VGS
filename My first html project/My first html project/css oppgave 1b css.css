@@ -1,0 +1,14 @@
+
+#haha{
+    color: rgb(29, 251, 9);
+    text-align: right;
+    size: 28px;
+   
+}
+.myClass3{
+    color: blueviolet;
+}
+.myClass3 #hehe, #testing{
+    color: crimson;
+    text-decoration: double;
+}

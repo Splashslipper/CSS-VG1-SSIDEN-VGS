@@ -1,0 +1,83 @@
+#fist{
+    padding: 20px;
+    background-color: dimgrey;
+    color: brown;
+    text-align: center;
+    border: 10px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#surveyanswer{
+    padding: 20px;
+    background-color: dimgrey;
+    color: brown;
+    text-align: center;
+    border: 10px;
+    border-radius: 40px;
+    font-size: large;
+    text-decoration: none;
+    font-family: fantasy;
+    
+
+}
+#firstlink{
+    text-decoration: none;
+    color: black;
+}
+#secondlink{
+    text-decoration: none;
+    color: black;
+}
+#thirdlink{
+    text-decoration: none;
+}
+#forthlink{
+    text-decoration: none;
+}
+#fifthlink{
+    text-decoration: none;
+}
+#surveyanswer2{
+    padding: 20px;
+    background-color: dimgrey;
+    color: black;
+    text-align: center;
+    border: 10px;
+    border-radius: 40px;
+    font-size: large;
+    text-decoration: none;
+    font-family: fantasy;
+
+}
+#surveyanswer3{
+    padding: 20px;
+    background-color: dimgrey;
+    color: black;
+    text-align: center;
+    border: 10px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: fantasy;
+    
+}
+#surveyanswer4{
+    padding: 20px;
+    background-color: dimgrey;
+    color: black;
+    text-align: center;
+    border: 10px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: fantasy;
+}
+#surveyanswer5{
+    padding: 20px;
+    background-color: dimgrey;
+    color: black;
+    text-align: center;
+    border: 10px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: fantasy;
+}

@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Roblox;
+    src: url(Roblox2017-v6dO.ttf);
+}
+
+#FreeRobuxabovelink{
+    color: darkred;
+    font-family: Roblox;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-size: large;
+    border-style: solid;
+    
+
+}
+
+
+#FreeRobux{
+    text-decoration: none;
+    
+}
